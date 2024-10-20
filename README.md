@@ -8,3 +8,10 @@
 - to compile your vhdl **entity** : `ghdl -e your_entity`
 - to run your testbench : `ghdl -r testbench --stop-time=5us --vcd=testbench.vcd`
 - to open it with GTKwave : `gtkwave testbench.vcd`
+
+# Productive Environment
+- install Visual Studio Code
+
+In Visual Studio Code:
+- install `VHDL` extension from Pu Zhao
+- install `VHDL Formatter` extension from Vinrobot
